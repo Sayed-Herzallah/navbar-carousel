@@ -5,8 +5,7 @@ A custom landing page template integrating a fixed/sticky navigation header with
 ---
 
 ## 📌 Overview
-
-**NavBar-Carousel** highlights advanced layout building using CSS grid/flex layouts and JavaScript sliders. The slider supports automatic cycles and manual arrow/indicator navigations.
+NavBar-Carousel highlights advanced layout building using CSS grid/flex layouts and JavaScript sliders. The slider supports automatic cycles and manual arrow/indicator navigations.
 
 ---
 
@@ -14,27 +13,28 @@ A custom landing page template integrating a fixed/sticky navigation header with
 
 | Technology | Purpose |
 | ---------- | ------- |
-| HTML5      | Main DOM layout |
+| HTML5      | Core page structure |
 | CSS3       | Keyframes, slide animations, and overlays |
 | JavaScript | Carousel loops and slide counters |
 
 ---
 
-## 🚀 Key Features
-
+## 🚀 Core Features
 * 🎠 **Smooth Carousel:** Fade or slide transitions between images.
 * 🧭 **Sticky Header:** Translucent glassmorphism navbar that sticks on scroll.
 * 📱 **Fully Responsive:** Adapts images and slider captions based on viewport width.
 
 ---
 
-## 👨&zwj;💻 Author
-
-**Sayed Herzallah**  
-Frontend Developer
+## ⚙️ Setup & Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sayed-Herzallah/NavBar-Carousel.git
+   ```
+2. Open `index.html` in your browser.
 
 ---
 
-## ⭐ Support
-
-If you find this project useful, consider giving it a star on GitHub.
+## 👨‍💻 Author
+**Sayed Herzallah**  
+Full Stack Developer
